@@ -1,0 +1,9 @@
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\bin\Debug\js.s.p0124.exe
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\bin\Debug\js.s.p0124.pdb
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\obj\Debug\js.s.p0124.csprojAssemblyReference.cache
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\obj\Debug\js.s.p0124.Form1.resources
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\obj\Debug\js.s.p0124.Properties.Resources.resources
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\obj\Debug\js.s.p0124.csproj.GenerateResource.cache
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\obj\Debug\js.s.p0124.csproj.CoreCompileInputs.cache
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\obj\Debug\js.s.p0124.exe
+C:\Users\Trang\source\repos\js.s.p0124\js.s.p0124\obj\Debug\js.s.p0124.pdb
