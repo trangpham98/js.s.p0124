@@ -1,0 +1,17 @@
+C:\Users\Trang\source\repos\nhap\nhap\bin\Debug\nhap.exe
+C:\Users\Trang\source\repos\nhap\nhap\bin\Debug\nhap.pdb
+C:\Users\Trang\source\repos\nhap\nhap\obj\Debug\nhap.csprojAssemblyReference.cache
+C:\Users\Trang\source\repos\nhap\nhap\obj\Debug\nhap.Form1.resources
+C:\Users\Trang\source\repos\nhap\nhap\obj\Debug\nhap.Properties.Resources.resources
+C:\Users\Trang\source\repos\nhap\nhap\obj\Debug\nhap.csproj.GenerateResource.cache
+C:\Users\Trang\source\repos\nhap\nhap\obj\Debug\nhap.csproj.CoreCompileInputs.cache
+C:\Users\Trang\source\repos\nhap\nhap\obj\Debug\nhap.exe
+C:\Users\Trang\source\repos\nhap\nhap\obj\Debug\nhap.pdb
+F:\codeVisual\nhap\nhap\bin\Debug\nhap.exe
+F:\codeVisual\nhap\nhap\bin\Debug\nhap.pdb
+F:\codeVisual\nhap\nhap\obj\Debug\nhap.csprojAssemblyReference.cache
+F:\codeVisual\nhap\nhap\obj\Debug\nhap.Form1.resources
+F:\codeVisual\nhap\nhap\obj\Debug\nhap.Properties.Resources.resources
+F:\codeVisual\nhap\nhap\obj\Debug\nhap.csproj.GenerateResource.cache
+F:\codeVisual\nhap\nhap\obj\Debug\nhap.exe
+F:\codeVisual\nhap\nhap\obj\Debug\nhap.pdb

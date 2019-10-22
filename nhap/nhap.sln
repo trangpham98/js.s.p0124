@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhap", "nhap\nhap.csproj", "{C2EBEC4A-0A60-4FDA-9117-9ED95F1888A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2EBEC4A-0A60-4FDA-9117-9ED95F1888A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EBEC4A-0A60-4FDA-9117-9ED95F1888A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EBEC4A-0A60-4FDA-9117-9ED95F1888A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EBEC4A-0A60-4FDA-9117-9ED95F1888A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56BB0914-71DD-4E56-886C-7B8CDF58E3B7}
+	EndGlobalSection
+EndGlobal
