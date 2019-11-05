@@ -1,0 +1,8 @@
+F:\codeVisual\HappyFrog\HappyFrog\bin\Debug\HappyFrog.exe
+F:\codeVisual\HappyFrog\HappyFrog\bin\Debug\HappyFrog.pdb
+F:\codeVisual\HappyFrog\HappyFrog\obj\Debug\HappyFrog.Form1.resources
+F:\codeVisual\HappyFrog\HappyFrog\obj\Debug\HappyFrog.Properties.Resources.resources
+F:\codeVisual\HappyFrog\HappyFrog\obj\Debug\HappyFrog.csproj.GenerateResource.cache
+F:\codeVisual\HappyFrog\HappyFrog\obj\Debug\HappyFrog.exe
+F:\codeVisual\HappyFrog\HappyFrog\obj\Debug\HappyFrog.pdb
+F:\codeVisual\HappyFrog\HappyFrog\obj\Debug\HappyFrog.csprojAssemblyReference.cache
